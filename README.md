@@ -1,8 +1,4 @@
 # React Fitness Application
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+The Gym Fitness App is a frontend project designed to enhance users' fitness journey by providing a range of features. Users can explore different exercises based on body parts and equipment, view exercise details, and watch related YouTube videos. Additionally, the app offers pre-built workout plans tailored for various goals and fitness levels, such as weight loss and muscle gain. Users can select a plan, follow it within the app, and track their progress. The app aims to provide a comprehensive fitness experience by combining exercise exploration, detailed information, and structured workout plans.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
